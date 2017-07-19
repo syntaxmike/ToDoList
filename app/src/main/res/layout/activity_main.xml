@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:weightSum="1"
+    tools:context="com.sargent.mark.todolist.MainActivity">
+
+    /*
+    * Imported a library that implements a header to the main activity. Thus showing what the each todo item represents.
+    */
+
+    <com.bartoszlipinski.recyclerviewheader2.RecyclerViewHeader
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_gravity="center_horizontal|top">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textSize="18dp"
+            android:text="@string/description"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="18dp"
+            android:text="@string/dueCategory"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textSize="18dp"
+            android:text="@string/category"/>
+    </com.bartoszlipinski.recyclerviewheader2.RecyclerViewHeader>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight=".90" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/addToDo"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight=".10"
+        android:text="Add Item"
+        android:src="@drawable/ic_add_black_48dp"/>
+
+</LinearLayout>

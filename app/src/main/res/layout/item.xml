@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="16dp"
+        android:textColor="@color/notCompleted"/>
+
+    <TextView
+        android:id="@+id/dueDate"
+        android:layout_width="5dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:textColor="@color/notCompleted"/>
+    <TextView
+        android:id="@+id/category"
+        android:layout_width="5dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:textColor="@color/notCompleted"/>
+
+    /*
+     * Checkbox will allow the user to show if the item is completed or has not been completed.
+     */
+    <CheckBox
+        android:id="@+id/completed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\9ebcd1bcc55bef874728e2678614a0aee5f4869a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_93600247b4245ceb47a07d772317c55673e7c14b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\b9fd50d9a27df77e21efef80ddd2cf6649ce4a30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_66784e8b74c82cc2bf40ef148d636ec8dd4f2cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\e5dd104ef52e0bfffb3339c292112251f80a25ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_76ea7786af3b30dd0af45c18fba99d1cb7ab28cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\5befe678eaee7c84ab8ebd32960d6c2d8f3474d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3324ea9b0bf0491c7d2304ffba1322d9c11ef017">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_5c1f7ea4973500308bf767f26c9b7991c283de53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\3aa2a89aee782a29ecf6bf487355674ae4391f7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_6731ff32a629a6dff2729d4a419c4fac5fd1a508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f8f841bc87f619636760c0a66245bb657285f6f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\e97bc7c7d82dcce369fb4a3ba1ec96f445d71334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_6702343eb40d5dd295537de45930aa16da129e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\614be3eee3bd276ecef703f106c2dc9be5dda342\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_d0e93dcde2e9431c8f9ff54c11cf7990700cab76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_5610b376cb6151e9e4c6fd6bad00ce9e98287706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\6ae80a4a0371df29b18a39a8af1908d79f68ad36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_e966e0125691de95ddff7cdf8ad1d8d1e1de37bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\7bcbeaad7bed1b257f846634d5dbdacdfa9fb8e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_a181b0b480071d39b3217ad378656bee3507c86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\09f95ad763dad22ed908ecd48cbd7e72c05632aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_1f3b3fd5e9b81c993cac79031c5039bcb14d2e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\3e86bc2cbe55ed6764fddf23b4deb6b924710c4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_f8e2f71a40f4bf27c8afb2e1f4a3407b72cebff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\64906bd76ab79ddef6c01914800c98897de43bf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_37c21756f2d2e0003081f7f19342265d96930405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\7fe1fbad0c48b98dcba37e5d4939aa6b1dd3e7f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_ff9368bcba61d5d675b60b85a643c9cd44807b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Syntax Mike\.android\build-cache\b237ccf79972eac405a4b901d1cb0b4796d8888e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Syntax Mike\Desktop\Udacity Exercises\ToDoList\app\build\intermediates\pre-dexed\debug\classes_eabb8cc82f9b2cbecdc7d1c862bc1f44536dea26.jar" />
+    </item>
+
+</items>

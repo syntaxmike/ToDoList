@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="notCompleted">NC</string>
+    <string name="completed">Completed</string>
+
+    /*
+    * Array of Strings that would be inside the Spinner whenever the To-Do Adder is brought up.
+    */
+    <string-array name="items_array">
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Family Duties</item>
+        <item>School</item>
+    </string-array>
+
+    <string-array name="items_menuArray">
+        <item>Show All</item>
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Family Duties</item>
+        <item>School</item>
+    </string-array>
+
+    <string name="description">Description    |</string>
+    <string name="dueCategory">Due       |         Category            |</string>
+    <string name="category">      Completion</string>
+
+</resources>
