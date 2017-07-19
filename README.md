@@ -1,5 +1,6 @@
 # ToDoList
 
+**Wait for Dependencies to load or will cause issues with UI**
 
 Using the To Do list app from my Github, add the following features:
 
